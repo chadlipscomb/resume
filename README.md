@@ -1,5 +1,4 @@
-
-# Chad Lipscomb
+## Chad Lipscomb
 
 **Cloud Engineer**
 
@@ -12,6 +11,8 @@ lipscomb.chad@gmail.com
 Chad is an associate consultant with focused experience in infrastructure analysis and design, in on- premises, cloud, and hybrid environments. A fundamental understanding of systems and structures reinforces his talent of quickly adapting to new environments and technologies.
 
 Authorized to work in the US for any employer Work Experience
+
+# Experience
 
 ------
 
@@ -160,7 +161,7 @@ Kart Trax
 - Timing and tracking systems.
 - Kart Jockey
 
-## Skills
+# Skills
 
 - Amazon Web Services (AWS)
 - Microsoft Azure
@@ -182,7 +183,7 @@ Powershell - Intermediate bash - Intermediate
 javascript - Beginner
 terraform - Intermediate
 
-## Certifications
+# Certifications
 
 - VMware Certified Professional - Datacenter Virtualization
 - AWS Solution Architect - Associate
