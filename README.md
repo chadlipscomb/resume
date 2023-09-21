@@ -1,7 +1,6 @@
 ## Chad Lipscomb
 
-**Cloud Engineer**
-
+**Solutions Architect**
 Long Beach, CA
 
 lipscomb.chad@gmail.com
@@ -14,6 +13,12 @@ Authorized to work in the US for any employer Work Experience
 
 # Experience
 
+------
+### Solutions Architect
+
+Alcor Technical Solutions - Baltimore, MD 
+
+Identity Data Fabric SA primarily serving the public sector
 ------
 
 ### **Consultant**
