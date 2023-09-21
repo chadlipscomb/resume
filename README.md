@@ -14,11 +14,14 @@ Authorized to work in the US for any employer Work Experience
 # Experience
 
 ------
+
 ### Solutions Architect
 
 Alcor Technical Solutions - Baltimore, MD 
 
-Identity Data Fabric SA primarily serving the public sector
+- Identity Data Fabric SA primarily serving the public sector
+- Accomplishments coming soon...
+
 ------
 
 ### **Consultant**
